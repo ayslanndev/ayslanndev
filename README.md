@@ -12,7 +12,7 @@
 - Focado em desenvolvimento fullstack & redes de computadores
 - Praticando todos dias para a evolução constante
 
- <p align="left">
+<p align="left">
     <a href="https://github.com/ayslanndev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
