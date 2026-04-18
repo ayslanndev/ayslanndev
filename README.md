@@ -6,6 +6,8 @@
 
  ### 📌 Sobre mim:
 
+  **`Desenvolvedor Fullstack`**
+
 - Cursando Analise e desenvolvimento de sistemas
 - Focado em desenvolvimento fullstack & redes de computadores
 - Praticando todos dias para a evolução constante
