@@ -4,6 +4,13 @@
 
 ---
 
+<img 
+  align="right" 
+  alt="Coding" 
+  height="100" 
+  src="https://i.redd.it/6nd1vmirw0q01.gif"
+/>
+
  ### 📌 Sobre mim:
 
   **`Desenvolvedor Fullstack`**
