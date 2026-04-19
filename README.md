@@ -6,7 +6,7 @@
 
 <img 
   align="right" 
-  alt="Cafe" 
+  alt="coding" 
   height="100" 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlrOWdrbXh1ODJtMnZjZDRsbWxtMnU5ZmV1dnlwa2F6dHF5c3RkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"
 />
