@@ -51,17 +51,17 @@
   <img 
     align="left" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=ayslanndev&show_icons=true&locale=pt-br&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api?username=ayslanndev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&border_radius=10" 
   />
 
   <img 
     align="center" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslanndev&layout=compact&locale=pt-br&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000" 
+    src="https://github-readme-stats-tau-neon-92.vercel.app/api/top-langs/?username=ayslanndev&layout=compact&locale=pt-br&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&border_radius=10" 
   />
 </div>
 
-
+---
 
 
 
