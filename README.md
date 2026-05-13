@@ -87,7 +87,7 @@
 
 ---
 
-## 💼 Open to Work :
+## 💼 Open to Work 
 
 Estou aberto a oportunidades como:
 - 🎯 **Estágio/Desenvolvedor Junior - Backend | Frontend**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤﾠﾠﾠﾠㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
