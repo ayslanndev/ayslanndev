@@ -87,6 +87,15 @@
 
 ---
 
+## 💼 Open to Work :
+
+Estou aberto a oportunidades como:
+- 🎯 **Estágio/Desenvolvedor Junior - Backend | Frontend**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤﾠﾠﾠﾠㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+- 🎯 **Estágio/Desenvolvedor Junior - Fullstack**
+- 🎯 **QA (Quality Assurance)** 
+
+---
+
 ## 📫 Contato
 
 <div align="center">
