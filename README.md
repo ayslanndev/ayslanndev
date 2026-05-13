@@ -72,6 +72,17 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
+<br><br/>
+
+<p align="center">
+  <img 
+    alt="minecraft" 
+    height="150" 
+    src="https://www.pngall.com/wp-content/uploads/17/Minecraft-Hotbar-Essential-Gameplay-Interface-PNG.png"
+  />
+</p>
+
+<br/>
 
 ---
 
