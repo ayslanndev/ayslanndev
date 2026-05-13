@@ -78,11 +78,10 @@
 ## 📫 Contato
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ayslanbsilva@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayslanbsilva@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayslan_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayslanbs/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(18)_99676--7290-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518996767290)
-
+  
+[![Outlook](https://img.shields.io/badge/📧_Email-ayslanbsilva@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ayslanbsilva@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Ayslan_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayslanbs/)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-(18)_99676--7290-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518996767290)
 
 
 
