@@ -112,7 +112,8 @@ const ayslan = new FullstackDeveloper();
 Estou aberto a oportunidades como:
 - 🎯 **Estágio/Desenvolvedor Junior - Backend | Frontend**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 - 🎯 **Estágio/Desenvolvedor Junior - Fullstack**
-- 🎯 **Estágio/Junior - QA (Quality Assurance)** 
+- 🎯 **Estágio/Junior - QA (Quality Assurance)**
+- 🎯 **Estágio/Desenvolvedor Junior - UI/UX Design (Figma & FrontEnd)**ㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ---
 
