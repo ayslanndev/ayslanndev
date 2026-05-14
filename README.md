@@ -7,7 +7,7 @@
 <img 
   align="right" 
   alt="coding" 
-  height="150" 
+  height="140" 
   src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"
 />
 
