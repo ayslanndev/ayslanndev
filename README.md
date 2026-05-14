@@ -94,7 +94,7 @@
 Estou aberto a oportunidades como:
 - 🎯 **Estágio/Desenvolvedor Junior - Backend | Frontend**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤﾠﾠﾠﾠㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 - 🎯 **Estágio/Desenvolvedor Junior - Fullstack**
-- 🎯 **Estágio/Junior QA (Quality Assurance)** 
+- 🎯 **Estágio/Junior - QA (Quality Assurance)** 
 
 ---
 
