@@ -31,6 +31,37 @@
 
 ---
 
+## 💡 O que eu faço de melhor
+
+```ts
+
+class FullstackDeveloper {
+  learning: string[] = ["React", "TypeScript", "Node.js", "APIs REST"];
+  
+  building: string[] = [
+    "Projetos fullstack",
+    "Interfaces modernas",
+    "Aplicações responsivas",
+    "Microservices"
+  ];
+
+  improving: string[] = [
+    "Lógica de programação",
+    "Clean Code",
+    "Boas práticas"
+  ];
+
+  getInTouch(): string {
+    return "ayslanbsilva@outlook.com";
+  }
+}
+
+const ayslan = new FullstackDeveloper();
+```
+**Traduzindo**: Desenvolvedor Fullstack em constante evolução, com foco na construção de aplicações modernas, escaláveis e funcionais utilizando React, TypeScript e Node.js, aplicando boas práticas de desenvolvimento, arquitetura de software e resolução eficiente de problemas.
+
+---
+
 ### 🛠 Tecnologias em aprendizado
 
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
