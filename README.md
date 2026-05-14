@@ -16,7 +16,7 @@
   **`Desenvolvedor Fullstack`**
 
 - Cursando Analise e desenvolvimento de sistemas
-- Focado em desenvolvimento fullstack & redes de computadores
+- Focado em Desenvolvimento Fullstack | UI/UX Design | QA (Quality Assurance)
 - Praticando todos dias para a evolução constante
 
 <p align="left">
