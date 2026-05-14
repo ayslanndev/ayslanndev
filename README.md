@@ -8,7 +8,7 @@
   align="right" 
   alt="coding" 
   height="150" 
-  src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlrOWdrbXh1ODJtMnZjZDRsbWxtMnU5ZmV1dnlwa2F6dHF5c3RkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"
 />
 
  ### 📌 Sobre mim:
